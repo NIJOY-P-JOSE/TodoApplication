@@ -17,6 +17,7 @@ addBtn.addEventListener("click", () => {
 
 taskList.addEventListener("click", (e) => {
   if (e.target.classList.contains("delete")) {
-    e.target.parentElement.remove();
+    let result = confirm("Do you want to delete?");
+    if (result) e.target.parentElement.remove();
   }
 });
