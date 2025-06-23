@@ -11,6 +11,16 @@ A simple and interactive Todo List built with HTML, CSS (Bootstrap), and JavaScr
 🎨 Styled using Bootstrap for a clean and responsive layout.
 
 📁 Project Structure
+
+├── .gitignore               # Files and folders ignored by Git
+├── README.md                # Project documentation
+├── index.html               # Main HTML structure
+├── app.js                   # JavaScript logic for task handling
+├── eslint.config.mjs        # ESLint configuration
+├── package.json             # Project metadata and dependencies
+├── package-lock.json        # Dependency lock file
+
+
 perl
 Copy
 Edit
