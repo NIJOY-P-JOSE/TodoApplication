@@ -11,8 +11,8 @@ A simple and interactive Todo List built with HTML, CSS (Bootstrap), and JavaScr
 🎨 Styled using Bootstrap for a clean and responsive layout.
 
 📁 Project Structure
-<pre>
-<code>├── .gitignore
+<pre><code>
+  ├── .gitignore
   ├── README.md 
   ├── index.html 
   ├── app.js 
