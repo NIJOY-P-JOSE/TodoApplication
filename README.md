@@ -1,4 +1,4 @@
-##TodoApplication
+## TodoApplication
 
 📝 Todo List Application
 A simple and interactive Todo List built with HTML, CSS (Bootstrap), and JavaScript. This project allows users to add and delete tasks dynamically with a user-friendly interface.
@@ -12,7 +12,8 @@ A simple and interactive Todo List built with HTML, CSS (Bootstrap), and JavaScr
 
 🎨 Styled using Bootstrap for a clean and responsive layout.
 
-#📁 Project Structure
+# 📁 Project Structure
+
 <pre><code>
   ├── .gitignore
   ├── README.md 
@@ -22,7 +23,8 @@ A simple and interactive Todo List built with HTML, CSS (Bootstrap), and JavaScr
   ├── package.json 
   ├── package-lock.json </code></pre> 
 
-#💻 Technologies Used
+# 💻 Technologies Used
+
 HTML5 – Markup for the app structure
 
 Bootstrap 5 – For styling and layout
