@@ -2,6 +2,8 @@ const taskInput = document.getElementById("taskInput");
 const addBtn = document.getElementById("addBtn");
 const taskList = document.getElementById("taskList");
 
+
+//add the task
 addBtn.addEventListener("click", () => {
   const taskText = taskInput.value.trim();
   if (taskText === "") return;
@@ -15,6 +17,7 @@ addBtn.addEventListener("click", () => {
   taskInput.value = "";
 });
 
+//remove the task
 taskList.addEventListener("click", (e) => {
   if (e.target.classList.contains("delete")) {
     let result = confirm("Do you want to delete?");
